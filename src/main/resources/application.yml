@@ -1,0 +1,8 @@
+my-ip-data-client:
+  default-country: LV
+  url: 'https://api.ipdata.co/'
+
+loan-rate-limiter:
+  duration: 1
+  timeUnit: MINUTES
+  limit: 5
